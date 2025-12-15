@@ -1,0 +1,394 @@
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch1024.pth.tar'
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch0004.pth.tar' (epoch 4)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch0004.pth.tar' (epoch 4)None
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch0004.pth.tar' (epoch 4)None
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch0004.pth.tar' (epoch 4)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch1200.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch1200.pth.tar' (epoch 1200)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch1200.pth.tar'
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_4/checkpoint/whl/epoch0004.pth.tar' (epoch 4)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint/whl/epoch0006.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint/whl/epoch0006.pth.tar' (epoch 6)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint_mlp/whl/epoch0020.pth.tar'
+=> loaded checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint_mlp/whl/epoch0020.pth.tar' (epoch 20)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint_mlp/whl/epoch0001.pth.tar'
+=> loaded checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint_mlp/whl/epoch0001.pth.tar' (epoch 1)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint_mlp/whl/epoch0001.pth.tar'
+=> loaded checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint_mlp/whl/epoch0001.pth.tar' (epoch 1)None
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint_mlp/whl/epoch0007.pth.tar'
+=> loaded checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint_mlp/whl/epoch0007.pth.tar' (epoch 7)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint/whl/epoch0004.pth.tar' (epoch 4)None
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint/whl/epoch0004.pth.tar' (epoch 4)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint/whl/epoch0004.pth.tar' (epoch 4)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint/whl/epoch0001.pth.tar'
+=> loaded checkpoint '/home/pxt/work2/work2_fenceng_loss_crosstask_6/checkpoint/whl/epoch0001.pth.tar' (epoch 1)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_3_gai/checkpoint/whl/epoch0009.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/work2_fenceng_loss_crosstask_3_gai/checkpoint/whl/epoch0009.pth.tar' (epoch 9)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai/checkpoint/whl/epoch0004.pth.tar' (epoch 4)None
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai/checkpoint/whl/epoch0004.pth.tar' (epoch 4)None
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai/checkpoint/whl/epoch0004.pth.tar' (epoch 4)None
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai/checkpoint/whl/epoch0004.pth.tar' (epoch 4)None
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai/checkpoint/whl/epoch0004.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai/checkpoint/whl/epoch0004.pth.tar' (epoch 4)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai/checkpoint/whl/epoch1200.pth.tar'
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai_1/checkpoint/whl/epoch1012.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai_1/checkpoint/whl/epoch1012.pth.tar' (epoch 1012)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> loading checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai_1/checkpoint/whl/epoch1200.pth.tar'
+=> loaded checkpoint '/home/ps/pxt/work2/xiaorong/work2_fenceng_loss_crosstask_3_gai_1/checkpoint/whl/epoch1200.pth.tar' (epoch 1200)None
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
+=> no checkpoint found at 'True'
+Starting training loop for rank: 0, total batch size: 256
